@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Output documents
+*.jpg
+*.png
+*.xlsx
+*.exe
+*.csv
